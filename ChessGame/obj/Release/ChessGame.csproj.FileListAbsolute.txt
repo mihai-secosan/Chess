@@ -1,0 +1,12 @@
+C:\Users\Mihai\Downloads\Steve\ChessGame\bin\Release\ChessGame.exe.config
+C:\Users\Mihai\Downloads\Steve\ChessGame\bin\Release\ChessGame.exe
+C:\Users\Mihai\Downloads\Steve\ChessGame\bin\Release\ChessGame.pdb
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.ChessGameForm.resources
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.GameConclusion.resources
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.PieceSelectionForm.resources
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.Properties.Resources.resources
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.csproj.GenerateResource.cache
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.exe
+C:\Users\Mihai\Downloads\Steve\ChessGame\obj\Release\ChessGame.pdb
